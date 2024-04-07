@@ -6,3 +6,4 @@ python-dateutil==2.8.2
 yfinance==0.2.37
 plotly==5.20.0
 SpeechRecognition==3.10.3
+pyocr==0.8.5
